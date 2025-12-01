@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Contact Me
-📧 Email: `yourmail@gmail.com`  
+📧 Email: gnanamurasu05@gmail.com  
 📍 India  
 💻 GitHub: `github.com/gnanamurasu-k`
 
