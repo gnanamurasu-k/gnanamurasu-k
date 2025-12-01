@@ -1,48 +1,57 @@
 <h1 align="center">Hi, I'm Gnanamurasu 👋</h1>
 
-🎓 **Computer Science & Design student**  
-💻 **C#, Java, Python, Cloud (GCP)**  
-🔧 **Debugging & mini project development**  
-🧠 Currently learning **AI & NLP**  
-🌍 Open to **remote work / internships**
+🎓 Final-year **Computer Science and Design student**  
+💡 Passionate about software development & problem-solving  
+💻 Skilled in **Java, Python (Basics), C, C++, HTML, CSS, JS (Basics)**  
+🧠 Interested in **Cloud, AI & Creative Software Solutions**  
+🚀 Currently improving my coding & debugging skills through mini projects  
 
 ---
 
-### 🔥 Skills & Technologies
-
-| Category | Skills |
-|----------|--------|
-| Languages | C#, Java, Python, C |
-| Frameworks | .NET, Windows Forms, ADO.NET |
-| Cloud | GCP (VPC, IAM, Compute Engine) |
-| AI/NLP | Text preprocessing (beginner) |
-| Databases | SQL, JSON, XML |
-| Tools | Git, GitHub, Visual Studio |
+## 🛠 Technical Skills  
+- **Programming:** C, C++, Java, Python  
+- **Web (Basics):** HTML, CSS, JavaScript  
+- **Libraries/Tools:** OpenCV, Mediapipe, Canva, Photoshop  
+- **Concepts:** OOP, Problem Solving, User-centric Design  
 
 ---
 
-### 📌 Featured Projects
+## 📌 Projects  
 
-| Project Name | Description |
-|--------------|-------------|
-| Student Marks Calculator (C#) | Console app with grade system |
-| Debug Practice (C#) | Fixed logical & syntax errors |
-| Simple Chatbot (Python) | Basic rule-based chatbot |
-| Report Card (Java) | Java console app using Scanner class |
+### 🖐 Hand Gesture Based Mouse Control System  
+**Python | OpenCV | Mediapipe**  
+- Built a real-time mouse control system using hand gestures.  
+- Used computer vision to track hand landmarks via webcam.  
+- Mapped movements to mouse actions effectively.  
+:contentReference[oaicite:1]{index=1}
 
----
-
-### 📅 Learning Goals for 2025
-- Learn .NET Web API  
-- Build full-stack mini project  
-- Improve English & interview skills  
-- Learn basic data structures  
+### 📚 Library Management System  
+**Java | OOP**  
+- Implemented a console-based library system using OOP concepts.  
+- Included add/search/borrow/return book features.  
+:contentReference[oaicite:2]{index=2}
 
 ---
 
-### 📫 Contact Me
-📧 Email: gnanamurasu05@gmail.com  
-📍 India  
-💻 GitHub: `github.com/gnanamurasu-k`
+## 🧪 Internship Experience  
+**Graphic Design Intern – Novanector Services Pvt. Ltd. (06/2024 – 07/2024)**  
+- Created posters, banners & social media graphics.  
+- Improved skills in design tools like Photoshop, Illustrator & Canva.  
+:contentReference[oaicite:3]{index=3}
 
-⭐ *“Keep learning, keep coding.”*  
+---
+
+## 🎯 Goals for 2025  
+- Complete mini projects in C#, Java & Python  
+- Learn Cloud (GCP) & AI/NLP basics  
+- Build a strong LinkedIn + GitHub presence  
+- Apply for internships & remote jobs  
+
+---
+
+## 📫 Contact  
+📧 Email: **gnanamurasu05@gmail.com**   
+📍 Location: India  
+💼 Open to internships / remote work  
+⭐ *Keep learning, keep building.*  
+ 
